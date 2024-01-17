@@ -1,0 +1,21 @@
+{
+    "name": "pxt-kn-maze",
+    "version": "0.0.0",
+    "description": "A micro:bit (makecode) library for generating mazes",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+    },
+    "files": [
+        "README.md",
+        "knmaze.ts"
+    ],
+    "testFiles": [
+    ],
+    "public": true,
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
